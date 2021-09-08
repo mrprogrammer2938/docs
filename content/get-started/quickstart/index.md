@@ -11,15 +11,7 @@ topics:
   - Notifications
   - Accounts
 children:
-  - /set-up-git
-  - /create-a-repo
-  - /fork-a-repo
-  - /github-flow
-  - /be-social
-  - /communicating-on-github
-  - /github-glossary
-  - /git-cheatsheet
-  - /git-and-github-learning-resources
+  - /master
 redirect_from:
   - /github/getting-started-with-github/quickstart/
 ---
